@@ -1,0 +1,2 @@
+rootProject.name = 'Stage_1_1_SimpleSpringBlog'
+include('app')
